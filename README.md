@@ -1,5 +1,6 @@
 
 # ultraSCRAPE
+<img width="1084" height="779" alt="Screenshot 2025-10-31 at 12 08 18 PM" src="https://github.com/user-attachments/assets/47298a45-f3cb-4151-a3a9-c647d9822a21" />
 
 💥 **ultraSCRAPE** is a visually insane, high-speed Python web image scraper. It crawls entire domains, subdomains, and pagination patterns, downloading every image it finds. Built with PySide6 and BeautifulSoup, it features multithreading, dynamic chaos themes, and real-time logging.
 
